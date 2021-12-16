@@ -7,7 +7,7 @@ function validarNome() {
 
 
   if (name === 'jamille' || name === 'jamille rodrigues' || name === 'jamille soares' || name === 'jamille soares rodrigues') {
-    document.getElementById('result').innerText = 'Você é uma pessoa incrível, é uma honra te conhecer, linda'
+    document.getElementById('result').innerText = 'Você é uma pessoa incrível, é uma honra te conhecer, bombonzinho'
 
     document.body.classList.add('jamille')
     document.getElementById('result').className = 'jamilleText'
